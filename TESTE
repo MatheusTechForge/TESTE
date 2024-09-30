@@ -1,0 +1,5 @@
+l1 = float(input('Digite um número: '))
+l2 = float(input('Digite outro número: '))
+l3 = l1 + l2
+print('A soma de {} + {} é {}!'.format(l1,l2,l3))
+print('O tipo primitivo é:',type(l3))
